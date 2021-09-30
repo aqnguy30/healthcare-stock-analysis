@@ -60,7 +60,7 @@ To do:
 
 
 ## Acknowledgements
-This project was inspired by many Data Scientists working at the Hewlett Packard Enterprise Data Science Institute and in Healthcare industry. 
+This project was inspired by many Data Scientists working at the Hewlett Packard Enterprise Data Science Institute and in Healthcare Industry. 
 
 
 ## Contact
